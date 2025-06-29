@@ -4,6 +4,6 @@ def greet():
 def unused(): 
 
     return "This function is not covered by tests" 
-def unused(): 
+def unusedagain(): 
 
     return "Not covered" 
